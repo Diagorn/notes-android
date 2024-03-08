@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textXs">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="textXs.Regular">
+        <item name="fontFamily">@font/regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textXs.Medium">
+        <item name="fontFamily">@font/medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textXs.Bold">
+        <item name="fontFamily">@font/bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="text2Xs">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="text2Xs.Regular">
+        <item name="fontFamily">@font/regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="text2Xs.Medium">
+        <item name="fontFamily">@font/medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="text2Xs.Bold">
+        <item name="fontFamily">@font/bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textSm">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="textSm.Regular">
+        <item name="fontFamily">@font/regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textSm.Medium">
+        <item name="fontFamily">@font/medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textSm.Bold">
+        <item name="fontFamily">@font/bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textBase">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="textBase.Regular">
+        <item name="fontFamily">@font/regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textBase.Medium">
+        <item name="fontFamily">@font/medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textBase.Bold">
+        <item name="fontFamily">@font/bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textLg">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="textLg.Regular">
+        <item name="fontFamily">@font/regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textLg.Medium">
+        <item name="fontFamily">@font/medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textLg.Bold">
+        <item name="fontFamily">@font/bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textXl">
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="textXl.Regular">
+        <item name="fontFamily">@font/regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textXl.Medium">
+        <item name="fontFamily">@font/medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textXl.Bold">
+        <item name="fontFamily">@font/bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="text2Xl">
+        <item name="android:textSize">32sp</item>
+    </style>
+
+    <style name="text2Xl.Regular">
+        <item name="fontFamily">@font/regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="text2Xl.Medium">
+        <item name="fontFamily">@font/medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="text2Xl.Bold">
+        <item name="fontFamily">@font/bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="text3Xl">
+        <item name="android:textSize">40sp</item>
+    </style>
+
+    <style name="text3Xl.Regular">
+        <item name="fontFamily">@font/regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="text3Xl.Medium">
+        <item name="fontFamily">@font/medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="text3Xl.Bold">
+        <item name="fontFamily">@font/bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>

@@ -1,11 +1,8 @@
-package com.turing.notes
+package com.diagorn.notes
 
 import android.os.Bundle
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
-import com.turing.notes.databinding.ActivityMainBinding
+import com.diagorn.notes.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     

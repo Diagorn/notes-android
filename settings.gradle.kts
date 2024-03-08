@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "notes"
 include(":app")
- 
+include(":main_page")
+include(":design")

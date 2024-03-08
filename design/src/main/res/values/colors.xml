@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryBase">#6A3EA1</color>
+    <color name="primaryDark">#3A2258</color>
+    <color name="primaryLight">#EFE9F7</color>
+    <color name="primaryBackground">#FAF8FC</color>
+
+    <color name="secondaryBase">#60D889</color>
+    <color name="secondaryDark">#1F7F40</color>
+    <color name="secondaryLight">#DAF6E4</color>
+
+    <color name="neutralBlack">#180E25</color>
+    <color name="neutralDarkGrey">#827D89</color>
+    <color name="neutralBaseGrey">#C8C5CB</color>
+    <color name="neutralLightGrey">#EFEEF0</color>
+    <color name="neutralWhite">#FFFFFF</color>
+
+    <color name="successBase">#60D889</color>
+    <color name="successDark">#1F7F40</color>
+    <color name="successLight">#DAF6E4</color>
+
+    <color name="errorBase">#CE3A54</color>
+    <color name="errorDark">#5A1623</color>
+    <color name="errorLight">#F7DEE3</color>
+
+    <color name="warningBase">#F8C715</color>
+    <color name="warningDark">#725A03</color>
+    <color name="warningLight">#FDEBAB</color>
+</resources>
